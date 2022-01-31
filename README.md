@@ -38,7 +38,7 @@
 
 - Block-chain using Solidity
 
-- Meta-mask
+- Truffle
 
 - Flutter
 
